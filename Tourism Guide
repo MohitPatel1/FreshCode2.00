@@ -1,2 +1,5 @@
 #include<stdio.h>
-kjndfk
+int main()
+{
+  printf("Hello");
+}
